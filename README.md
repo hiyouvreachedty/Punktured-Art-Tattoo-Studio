@@ -40,7 +40,7 @@ They had no existing web presence to speak of. The goal was to go from zero to a
 - **Custom embed code** — wrote and implemented Google Maps embed directly into Webflow for accurate location display and local SEO benefit.
 - **Social media backlinking** — implemented per-artist Instagram links to connect the site to each artist’s active social following.
 - **Gallery lightbox** — built full-screen image viewer with thumbnail strip navigation for portfolio browsing.
-- **CTA architecture** — “Book a Visit” and “View Pricing” CTAs placed at strategic points throughout the site to drive consultation conversions.
+- **CTA architecture** — "Book a Visit" and "View Pricing" CTAs placed at strategic points throughout the site to drive consultation conversions.
 - **Mobile-first build** — primary audience browses on mobile, so the entire layout was designed and tested mobile-first before desktop.
 - **Local SEO** — page titles, meta descriptions, address schema, and Google Maps integration structured to support Google Business visibility.
 
@@ -67,16 +67,9 @@ They had no existing web presence to speak of. The goal was to go from zero to a
 
 ## Screenshots
 
-### Homepage — Mobile
-![Homepage](screenshots/homepage.png)
+> The live site is the best way to see the full design. Visit **[punkturedart.com](https://punkturedart.com)** to explore the homepage, gallery, artist profiles, and mobile experience.
 
-### Artist Gallery
-![Gallery](screenshots/gallery.png)
-
-### Artist Profile Page
-![Artist Profile](screenshots/artist-profile.png)
-
-> Full site live at [punkturedart.com](https://punkturedart.com)
+*Screenshots will be added to this repo shortly.*
 
 ---
 
