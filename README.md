@@ -35,6 +35,24 @@ They had no existing web presence to speak of. The goal was to go from zero to a
 
 ---
 
+## Screenshots
+
+> The live site is the best way to see the full design. Visit **[punkturedart.com](https://punkturedart.com/)** to explore the homepage, gallery, artist profiles, and mobile experience.
+
+### Homepage
+![IMG_3231](https://github.com/user-attachments/assets/f2a19303-eb94-41e1-ad7e-f9f6f28a3b57)
+
+### Artist Profile
+![IMG_3238](https://github.com/user-attachments/assets/d0ce453c-6dfc-46bf-906b-2ee8cc090e48)
+
+### Gallery
+![IMG_3236](https://github.com/user-attachments/assets/c3a5e5ad-4325-4666-8378-68e4e997456b)
+![IMG_3235](https://github.com/user-attachments/assets/eae630b2-2cb8-4025-8456-37b018afc9a6)
+![IMG_3234](https://github.com/user-attachments/assets/b94e9aab-3dee-415c-91fb-45ddd2cc8e6a)
+![IMG_3233](https://github.com/user-attachments/assets/8e1caa21-5b8a-4d5f-a7d3-bce74d0857e4)
+
+---
+
 ## Technical Details
 
 - **Custom embed code** — wrote and implemented Google Maps embed directly into Webflow for accurate location display and local SEO benefit.
